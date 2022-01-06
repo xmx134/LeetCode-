@@ -11,4 +11,4 @@
 ## 数组相关题目
 | 题目 | 备注 | 链接 |
 | ---- | ---- | ---- |
-| 2089. 找出数组排序后的目标下标 | 时间复杂度O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2089.java |
+| 2089. 找出数组排序后的目标下标 | 时间复杂度O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Sort/2089.java |
