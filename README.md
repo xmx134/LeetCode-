@@ -21,6 +21,7 @@
 
 ## JavaScript 相关题目
 
-| 题目         | 备注            | 链接                                                                    |
-| ------------ | --------------- | ----------------------------------------------------------------------- |
-| 2620. 计数器 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 题目           | 备注                | 链接                                                                    |
+| -------------- | ------------------- | ----------------------------------------------------------------------- |
+| 2620. 计数器   | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 2621. 睡眠函数 | setTimeout，promise | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
