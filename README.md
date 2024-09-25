@@ -25,3 +25,4 @@
 | -------------- | ------------------- | ----------------------------------------------------------------------- |
 | 2620. 计数器   | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
 | 2621. 睡眠函数 | setTimeout，promise | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 2723. 睡眠函数 | promise             | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2723.js |
