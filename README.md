@@ -21,8 +21,9 @@
 
 ## JavaScript 相关题目
 
-| 题目           | 备注                | 链接                                                                    |
-| -------------- | ------------------- | ----------------------------------------------------------------------- |
-| 2620. 计数器   | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
-| 2621. 睡眠函数 | setTimeout，promise | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
-| 2723. 睡眠函数 | promise             | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2723.js |
+| 题目               | 备注                | 链接                                                                    |
+| ------------------ | ------------------- | ----------------------------------------------------------------------- |
+| 2620. 计数器       | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 2621. 睡眠函数     | setTimeout，promise | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 2723. 睡眠函数     | promise             | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2723.js |
+| 2626. 数组归约运算 | promise             | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2626.js |
