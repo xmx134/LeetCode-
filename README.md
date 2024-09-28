@@ -21,10 +21,11 @@
 
 ## JavaScript 相关题目
 
-| 题目               | 备注                | 链接                                                                    |
-| ------------------ | ------------------- | ----------------------------------------------------------------------- |
-| 2620. 计数器       | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
-| 2621. 睡眠函数     | setTimeout，promise | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
-| 2723. 睡眠函数     | promise             | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2723.js |
-| 2626. 数组归约运算 | 迭代器              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2626.js |
-| 2629. 复合函数     | 迭代器+倒序         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2629.js |
+| 题目                        | 备注                | 链接                                                                    |
+| --------------------------- | ------------------- | ----------------------------------------------------------------------- |
+| 2620. 计数器                | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 2621. 睡眠函数              | setTimeout，promise | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 2723. 两个 Promise 对象相加 | promise             | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2723.js |
+| 2626. 数组归约运算          | 迭代器              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2626.js |
+| 2629. 复合函数              | 迭代器+倒序         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2629.js |
+| 2634. 过滤数组中的元素      | Array+迭代器        | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2634.js |
