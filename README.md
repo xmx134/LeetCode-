@@ -30,3 +30,4 @@
 | 2629. 复合函数              | 迭代器+倒序         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2629.js |
 | 2634. 过滤数组中的元素      | Array+迭代器        | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2634.js |
 | 2648. 生成斐波那契数列      | Generator 生成器    | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2648.js |
+| 2635. 转换数组中的每个元素  | callback 回调函数   | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2635.js |
