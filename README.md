@@ -32,3 +32,5 @@
 | 2648. 生成斐波那契数列      | Generator 生成器    | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2648.js |
 | 2635. 转换数组中的每个元素  | callback 回调函数   | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2635.js |
 | 2665. 计数器二              | 闭包+函数           | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2665.js |
+| 2667. 创建 Hello World 函数 | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2667.js |
+| 2666. 只允许一次函数调用    | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2666.js |
