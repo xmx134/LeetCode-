@@ -34,3 +34,4 @@
 | 2665. 计数器二              | 闭包+函数           | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2665.js |
 | 2667. 创建 Hello World 函数 | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2667.js |
 | 2666. 只允许一次函数调用    | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2666.js |
+| 2724. 排序方法              | sort+自定义排序方法 | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2666.js |
