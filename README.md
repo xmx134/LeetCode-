@@ -21,18 +21,19 @@
 
 ## JavaScript 相关题目
 
-| 题目                        | 备注                | 链接                                                                    |
-| --------------------------- | ------------------- | ----------------------------------------------------------------------- |
-| 2620. 计数器                | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
-| 2621. 睡眠函数              | setTimeout，promise | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
-| 2723. 两个 Promise 对象相加 | promise             | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2723.js |
-| 2626. 数组归约运算          | 迭代器              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2626.js |
-| 2629. 复合函数              | 迭代器+倒序         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2629.js |
-| 2634. 过滤数组中的元素      | Array+迭代器        | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2634.js |
-| 2648. 生成斐波那契数列      | Generator 生成器    | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2648.js |
-| 2635. 转换数组中的每个元素  | callback 回调函数   | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2635.js |
-| 2665. 计数器二              | 闭包+函数           | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2665.js |
-| 2667. 创建 Hello World 函数 | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2667.js |
-| 2666. 只允许一次函数调用    | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2666.js |
-| 2724. 排序方法              | sort+自定义排序方法 | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2724.js |
-| 2725. 间隔取消              | sort+自定义排序方法 | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2725.js |
+| 题目                            | 备注                | 链接                                                                    |
+| ------------------------------- | ------------------- | ----------------------------------------------------------------------- |
+| 2620. 计数器                    | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 2621. 睡眠函数                  | setTimeout，promise | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2620.js |
+| 2723. 两个 Promise 对象相加     | promise             | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2723.js |
+| 2626. 数组归约运算              | 迭代器              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2626.js |
+| 2629. 复合函数                  | 迭代器+倒序         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2629.js |
+| 2634. 过滤数组中的元素          | Array+迭代器        | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2634.js |
+| 2648. 生成斐波那契数列          | Generator 生成器    | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2648.js |
+| 2635. 转换数组中的每个元素      | callback 回调函数   | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2635.js |
+| 2665. 计数器二                  | 闭包+函数           | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2665.js |
+| 2667. 创建 Hello World 函数     | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2667.js |
+| 2666. 只允许一次函数调用        | 闭包                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2666.js |
+| 2724. 排序方法                  | sort+自定义排序方法 | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2724.js |
+| 2725. 间隔取消                  | setInterval         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2725.js |
+| 2619.数组原型对象的最后一个元素 | context + prototype | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2619.ts |
