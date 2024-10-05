@@ -39,3 +39,4 @@
 | 2619.数组原型对象的最后一个元素 | context + prototype | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2619.ts |
 | 2677.分组数块                   | Array               | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2677.ts |
 | 2678.老人的数目                 | 字符串的拆分        | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2678.ts |
+| 2682.找出转圈游戏输家           | Array.every         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2682.ts |
