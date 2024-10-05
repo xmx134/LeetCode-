@@ -40,3 +40,4 @@
 | 2677.分组数块                   | Array               | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2677.ts |
 | 2678.老人的数目                 | 字符串的拆分        | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2678.ts |
 | 2682.找出转圈游戏输家           | Array.every         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2682.ts |
+| 2610.转换二维数组               | Array.every         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2610.ts |
