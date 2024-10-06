@@ -19,6 +19,12 @@
 | 2089. 找出数组排序后的目标下标 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Sort/2089.java |
 | 1913. 两个数对之间的最大乘积差 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Sort/1913.java |
 
+## 贪心算法
+
+| 题目                   | 备注            | 链接                                                                  |
+| ---------------------- | --------------- | --------------------------------------------------------------------- |
+| 2609. 最长平衡子字符串 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2609.ts |
+
 ## JavaScript 相关题目
 
 | 题目                            | 备注                | 链接                                                                    |
