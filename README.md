@@ -49,3 +49,4 @@
 | 2610.转换二维数组               | Array.every         | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2610.ts |
 | 2727.判断对象是否为空           | Object              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2727.ts |
 | 2726.使用方法链的计算器         | 方法链              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2726.ts |
+| 2729. 判断一个数是否迷人        | String.includes     | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2729.ts |
