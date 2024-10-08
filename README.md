@@ -14,10 +14,11 @@
 
 ## 排序相关题目
 
-| 题目                           | 备注            | 链接                                                                |
-| ------------------------------ | --------------- | ------------------------------------------------------------------- |
-| 2089. 找出数组排序后的目标下标 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Sort/2089.java |
-| 1913. 两个数对之间的最大乘积差 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Sort/1913.java |
+| 题目                           | 备注                | 链接                                                                |
+| ------------------------------ | ------------------- | ------------------------------------------------------------------- |
+| 2089. 找出数组排序后的目标下标 | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Sort/2089.java |
+| 1913. 两个数对之间的最大乘积差 | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Sort/1913.java |
+| 2733. 既不是最小值也不是最大值 | 时间复杂度 O(nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Sort/2733.ts   |
 
 ## 贪心算法
 
