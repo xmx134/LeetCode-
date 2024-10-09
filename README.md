@@ -27,6 +27,12 @@
 | 2609. 最长平衡子字符串         | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2609.ts |
 | 2730. 找到最长的半重复子字符串 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2730.ts |
 
+## 数组
+
+| 题目                     | 备注            | 链接                                                               |
+| ------------------------ | --------------- | ------------------------------------------------------------------ |
+| 2744. 最大字符串配对数目 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2744.ts |
+
 ## 递归
 
 | 题目            | 备注            | 链接                                                              |
