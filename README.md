@@ -26,6 +26,7 @@
 | ------------------------------ | --------------- | --------------------------------------------------------------------- |
 | 2609. 最长平衡子字符串         | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2609.ts |
 | 2730. 找到最长的半重复子字符串 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2730.ts |
+| 2745. 构造最长的新字符串       | 时间复杂度 O(1) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2745.ts |
 
 ## 数组
 
@@ -64,3 +65,4 @@
 | 2727.判断对象是否为空           | Object              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2727.ts |
 | 2726.使用方法链的计算器         | 方法链              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2726.ts |
 | 2729. 判断一个数是否迷人        | String.includes     | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2729.ts |
+| 2695.包装数组                   | class               | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2695.ts |
