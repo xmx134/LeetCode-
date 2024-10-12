@@ -50,6 +50,9 @@
 | 2696. 删除子串后的字符串最小长度
 | 时间复杂度 O(2n) | https://github.com/xmx134/LeetCode-playing/blob/main/递归/2696.ts |
 
+| 2705.精简对象
+| | https://github.com/xmx134/LeetCode-playing/blob/main/递归/2705.ts |
+
 ## JavaScript 相关题目
 
 | 题目                            | 备注                | 链接                                                                    |
