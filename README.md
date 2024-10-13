@@ -30,10 +30,11 @@
 
 ## 数组
 
-| 题目                       | 备注            | 链接                                                               |
-| -------------------------- | --------------- | ------------------------------------------------------------------ |
-| 2744. 最大字符串配对数目   | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2744.ts |
-| 2703. 返回传递的参数的长度 | 时间复杂度 O(1) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2703.ts |
+| 题目                       | 备注                | 链接                                                               |
+| -------------------------- | ------------------- | ------------------------------------------------------------------ |
+| 2744. 最大字符串配对数目   | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2744.ts |
+| 2703. 返回传递的参数的长度 | 时间复杂度 O(1)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2703.ts |
+| 2708. 一个小组的最大实力值 | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2708.ts |
 
 ## 字符串
 
