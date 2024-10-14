@@ -81,3 +81,4 @@
 | 2726.使用方法链的计算器         | 方法链              | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2726.ts |
 | 2729. 判断一个数是否迷人        | String.includes     | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2729.ts |
 | 2695.包装数组                   | class               | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2695.ts |
+| 2704.相等还是不相等             | 内置函数            | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2704.ts |
