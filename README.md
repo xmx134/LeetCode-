@@ -83,3 +83,4 @@
 | 2729. 判断一个数是否迷人        | String.includes     | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2729.ts |
 | 2695.包装数组                   | class               | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2695.ts |
 | 2704.相等还是不相等             | 内置函数            | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2704.ts |
+| 2715.执行可取消的延迟函数       | 内置函数+setTimeout | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2715.ts |
