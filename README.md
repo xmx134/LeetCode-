@@ -44,6 +44,12 @@
 | 2697. 字典序最小回文串     | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/String/2697.ts |
 | 2710. 移除字符串中的尾随零 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/String/2710.ts |
 
+## 哈希表
+
+| 题目                   | 备注            | 链接                                                             |
+| ---------------------- | --------------- | ---------------------------------------------------------------- |
+| 2716. 最小化字符串长度 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Set/2716.ts |
+
 ## 递归
 
 | 题目            | 备注            | 链接                                                              |
