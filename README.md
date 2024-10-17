@@ -43,6 +43,7 @@
 | 2708. 一个小组的最大实力值 | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2708.ts |
 | 2706. 购买两块巧克力       | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2706.ts |
 | 2717. 半有序排列           | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2717.ts |
+| 2765. 最长交替子数组       | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2765.ts |
 
 ## 字符串
 
@@ -97,3 +98,4 @@
 | 2695.包装数组                   | class               | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2695.ts |
 | 2704.相等还是不相等             | 内置函数            | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2704.ts |
 | 2715.执行可取消的延迟函数       | 内置函数+setTimeout | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2715.ts |
+| 2769. 找出最大的可达成数字      | Math                | https://github.com/xmx134/LeetCode-playing/blob/main/Javascript/2769.ts |
