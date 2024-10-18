@@ -45,6 +45,7 @@
 | 2717. 半有序排列           | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2717.ts |
 | 2765. 最长交替子数组       | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2765.ts |
 | 2784. 检查数组是否是好的   | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2784.ts |
+| 2788.按分隔符拆分字符串    | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2788.ts |
 
 ## 字符串
 
