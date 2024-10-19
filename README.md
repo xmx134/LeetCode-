@@ -49,10 +49,11 @@
 
 ## 字符串
 
-| 题目                       | 备注            | 链接                                                                |
-| -------------------------- | --------------- | ------------------------------------------------------------------- |
-| 2697. 字典序最小回文串     | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/String/2697.ts |
-| 2710. 移除字符串中的尾随零 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/String/2710.ts |
+| 题目                               | 备注             | 链接                                                                |
+| ---------------------------------- | ---------------- | ------------------------------------------------------------------- |
+| 2697. 字典序最小回文串             | 时间复杂度 O(n)  | https://github.com/xmx134/LeetCode-playing/blob/main/String/2697.ts |
+| 2710. 移除字符串中的尾随零         | 时间复杂度 O(n)  | https://github.com/xmx134/LeetCode-playing/blob/main/String/2710.ts |
+| 28. 找出字符串中第一个匹配项的下标 | 时间复杂度 O(Nm) | https://github.com/xmx134/LeetCode-playing/blob/main/String/28.ts   |
 
 ## 哈希表
 

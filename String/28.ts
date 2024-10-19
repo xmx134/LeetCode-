@@ -19,3 +19,4 @@ function strStr(haystack: string, needle: string): number {
   }
   return -1
 }
+// 执行用时单百
