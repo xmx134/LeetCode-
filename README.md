@@ -22,11 +22,12 @@
 
 ## 贪心算法
 
-| 题目                           | 备注            | 链接                                                                  |
-| ------------------------------ | --------------- | --------------------------------------------------------------------- |
-| 2609. 最长平衡子字符串         | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2609.ts |
-| 2730. 找到最长的半重复子字符串 | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2730.ts |
-| 2745. 构造最长的新字符串       | 时间复杂度 O(1) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2745.ts |
+| 题目                           | 备注                | 链接                                                                  |
+| ------------------------------ | ------------------- | --------------------------------------------------------------------- |
+| 2609. 最长平衡子字符串         | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2609.ts |
+| 2730. 找到最长的半重复子字符串 | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2730.ts |
+| 2745. 构造最长的新字符串       | 时间复杂度 O(1)     | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/2745.ts |
+| 910. 最小差值 II               | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/贪心算法/910.ts  |
 
 ## 动态规划
 
