@@ -37,18 +37,19 @@
 
 ## 数组
 
-| 题目                         | 备注                | 链接                                                               |
-| ---------------------------- | ------------------- | ------------------------------------------------------------------ |
-| 2744. 最大字符串配对数目     | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2744.ts |
-| 2703. 返回传递的参数的长度   | 时间复杂度 O(1)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2703.ts |
-| 2708. 一个小组的最大实力值   | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2708.ts |
-| 2706. 购买两块巧克力         | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2706.ts |
-| 2717. 半有序排列             | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2717.ts |
-| 2765. 最长交替子数组         | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2765.ts |
-| 2784. 检查数组是否是好的     | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2784.ts |
-| 2788.按分隔符拆分字符串      | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2788.ts |
-| 908. 最小差值 I              | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/908.ts  |
-| 3184. 构成整天的下标对数目 I | 时间复杂度 O(N2)    | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3187.ts |
+| 题目                          | 备注                | 链接                                                               |
+| ----------------------------- | ------------------- | ------------------------------------------------------------------ |
+| 2744. 最大字符串配对数目      | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2744.ts |
+| 2703. 返回传递的参数的长度    | 时间复杂度 O(1)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2703.ts |
+| 2708. 一个小组的最大实力值    | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2708.ts |
+| 2706. 购买两块巧克力          | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2706.ts |
+| 2717. 半有序排列              | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2717.ts |
+| 2765. 最长交替子数组          | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2765.ts |
+| 2784. 检查数组是否是好的      | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2784.ts |
+| 2788.按分隔符拆分字符串       | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/2788.ts |
+| 908. 最小差值 I               | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/908.ts  |
+| 3184. 构成整天的下标对数目 I  | 时间复杂度 O(N2)    | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3184.ts |
+| 3185. 构成整天的下标对数目 II | 时间复杂度 O(N)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3185.ts |
 
 ## 字符串
 
