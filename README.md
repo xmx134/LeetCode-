@@ -50,6 +50,7 @@
 | 908. 最小差值 I               | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/908.ts  |
 | 3184. 构成整天的下标对数目 I  | 时间复杂度 O(N2)    | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3184.ts |
 | 3185. 构成整天的下标对数目 II | 时间复杂度 O(N)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3185.ts |
+| 66. 加一                      | 时间复杂度 O(N)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/66.ts   |
 
 ## 字符串
 
