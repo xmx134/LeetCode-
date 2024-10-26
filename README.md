@@ -58,6 +58,7 @@
 | 3185. 构成整天的下标对数目 II         | 时间复杂度 O(N)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3185.ts |
 | 66. 加一                              | 时间复杂度 O(N)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/66.ts   |
 | 3175. 找到连续赢 K 场比赛的第一位玩家 | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3175.ts |
+| 3194. 最小元素和最大元素的最小平均值  | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3194.ts |
 
 ## 字符串
 
