@@ -11,6 +11,7 @@ function lengthOfLastWord(s: string): number {
     if (temp[i].length > 0) return temp[i].length
     i--
   }
+
   return 0
 }
 // 时间单百
