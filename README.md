@@ -60,6 +60,7 @@
 | 3175. 找到连续赢 K 场比赛的第一位玩家 | 时间复杂度 O(Nlogn) | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3175.ts |
 | 3194. 最小元素和最大元素的最小平均值  | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/3194.ts |
 | 27. 移除元素                          | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/27.ts   |
+| 118. 杨辉三角                         | 时间复杂度 O(n2)    | https://github.com/xmx134/LeetCode-playing/blob/main/Array/118.ts  |
 
 ## 字符串
 
