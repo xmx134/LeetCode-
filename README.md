@@ -88,6 +88,12 @@
 
 | 2705.精简对象| | https://github.com/xmx134/LeetCode-playing/blob/main/递归/2705.ts |
 
+## Math
+
+| 题目             | 备注            | 链接                                                             |
+| ---------------- | --------------- | ---------------------------------------------------------------- |
+| 119. 杨辉三角 II | 时间复杂度 O(n) | https://github.com/xmx134/LeetCode-playing/blob/main/Math/119.ts |
+
 ## JavaScript 相关题目
 
 | 题目                            | 备注                | 链接                                                                    |
