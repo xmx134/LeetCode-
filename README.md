@@ -63,6 +63,7 @@
 | 27. 移除元素                          | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/27.ts   |
 | 118. 杨辉三角                         | 时间复杂度 O(n2)    | https://github.com/xmx134/LeetCode-playing/blob/main/Array/118.ts  |
 | 88. 合并两个有序数组                  | 时间复杂度 O(n2)    | https://github.com/xmx134/LeetCode-playing/blob/main/Array/88.ts   |
+| 228. 汇总区间                         | 时间复杂度 O(n)     | https://github.com/xmx134/LeetCode-playing/blob/main/Array/228.ts  |
 
 ## 字符串
 
