@@ -73,6 +73,7 @@
 | 2710. 移除字符串中的尾随零         | 时间复杂度 O(n)  | https://github.com/xmx134/LeetCode-playing/blob/main/String/2710.ts |
 | 28. 找出字符串中第一个匹配项的下标 | 时间复杂度 O(Nm) | https://github.com/xmx134/LeetCode-playing/blob/main/String/28.ts   |
 | 58. 最后一个单词的长度             | 时间复杂度 O(n)  | https://github.com/xmx134/LeetCode-playing/blob/main/String/58.ts   |
+| 125. 验证回文串                    | 时间复杂度 O(n)  | https://github.com/xmx134/LeetCode-playing/blob/main/String/125.ts  |
 
 ## 哈希表
 
